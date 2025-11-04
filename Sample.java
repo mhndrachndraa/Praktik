@@ -40,7 +40,7 @@ public class Sample {
             System.out.println(driverNama + " sedang dalam perjalanan ke " + penumpangTujuan + "...");
             
             driverIsAvailable = false; 
-          
+    
             System.out.println("...Perjalanan Selesai!");
             System.out.println(penumpangNama + " telah tiba di " + penumpangTujuan + ".");
             
